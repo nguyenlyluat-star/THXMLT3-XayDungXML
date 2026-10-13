@@ -1,0 +1,14 @@
+D:\LTTQ\XayDungXML\XayDungXML\bin\Debug\net8.0\XayDungXML.exe
+D:\LTTQ\XayDungXML\XayDungXML\bin\Debug\net8.0\XayDungXML.deps.json
+D:\LTTQ\XayDungXML\XayDungXML\bin\Debug\net8.0\XayDungXML.runtimeconfig.json
+D:\LTTQ\XayDungXML\XayDungXML\bin\Debug\net8.0\XayDungXML.dll
+D:\LTTQ\XayDungXML\XayDungXML\bin\Debug\net8.0\XayDungXML.pdb
+D:\LTTQ\XayDungXML\XayDungXML\obj\Debug\net8.0\XayDungXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTTQ\XayDungXML\XayDungXML\obj\Debug\net8.0\XayDungXML.AssemblyInfoInputs.cache
+D:\LTTQ\XayDungXML\XayDungXML\obj\Debug\net8.0\XayDungXML.AssemblyInfo.cs
+D:\LTTQ\XayDungXML\XayDungXML\obj\Debug\net8.0\XayDungXML.csproj.CoreCompileInputs.cache
+D:\LTTQ\XayDungXML\XayDungXML\obj\Debug\net8.0\XayDungXML.dll
+D:\LTTQ\XayDungXML\XayDungXML\obj\Debug\net8.0\refint\XayDungXML.dll
+D:\LTTQ\XayDungXML\XayDungXML\obj\Debug\net8.0\XayDungXML.pdb
+D:\LTTQ\XayDungXML\XayDungXML\obj\Debug\net8.0\XayDungXML.genruntimeconfig.cache
+D:\LTTQ\XayDungXML\XayDungXML\obj\Debug\net8.0\ref\XayDungXML.dll
